@@ -20,6 +20,14 @@ All leadership members are expected to:
 
 Think of "roles" as output: they tend to coincide with either regular things the club needs done e.g. taking photos at events, or one-off volunteer efforts e.g. writing up the riddles for compsigh cascade, doing the snack run for the week, etc.
 
+Examples of regular output ideal to always have people on:
+
+- Photography
+- Socials
+- Design-engineering for platforms e.g. DEPLOY, cascade, web platform
+
+Note that outputs don't always need a *unique* set of people; e.g. having a leadership team member both `taking photos at events` and `posting them on Instagram` is reasonable.
+
 ### President
 
 The only explicitly defined position in compsigh leadership is President of the club. The President's roles & responsibilities are to:
