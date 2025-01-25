@@ -2,7 +2,9 @@
 
 ## Criteria for leadership
 
-Inviting a club member to leadership should follow the process described on the [*Joining compsigh leadership* doc on the web platform](https://compsigh.club/docs/leadership/joining).
+See the [*Joining compsigh leadership* doc on the web platform](https://compsigh.club/docs/leadership/joining) for basic criteria and an overview of the invite process.
+
+One point worth highlighting is that a club member should *already be contributing* (e.g. helping with snack runs, tabling for involvement fairs, etc.). If they haven't yet had the chance to contribute in a meaningful way, it may be better to collaborate on a trial run before they join leadership.
 
 ## Onboarding
 
