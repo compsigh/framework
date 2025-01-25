@@ -70,3 +70,5 @@ Then, pack up the decorations into our Hive storage cubby or our UC 4th floor lo
 Return borrowed A/V and reset the space if we reconfigured during setup.
 
 Lastly, wipe down all surfaces.
+
+Send a message in `#leadership` when you're done and we're good!
