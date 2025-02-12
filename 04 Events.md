@@ -67,7 +67,7 @@ First, clean up any remaining plates, cups, etc. (and feel free to take note of 
 
 Then, pack up the decorations into our Hive storage cubby or our UC 4th floor locker. Check the `#leadership` Discord channel pinned messages for the up-to-date cubby number and locker combination.
 
-Return borrowed A/V and reset the space if we reconfigured during setup.
+Return borrowed A/V and reset the space if we reconfigured during setup. Ensure all the windows and doors are closed.
 
 Lastly, wipe down all surfaces.
 
