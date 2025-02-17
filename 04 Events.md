@@ -73,11 +73,28 @@ Lastly, wipe down all surfaces.
 
 Send a message in `#leadership` when you're done and we're good!
 
-## Planning Workshops
+## Running workshops
 
-Workshops are an opportunity for club members to learn about relevant skills. They can be hosted by leadership or other members of the club that leadership trusts.
+We've hosted [a variety of events](#Events%20structure), including workshops of different kinds. Regardless of format, workshops are an opportunity for club members to learn from — and teach — each other. They are open for anyone in the club to host (including leadership). As a team, we help them craft and host one that is prepared, high-quality, and helpful.
 
-Most people are lazy and will procrastinate working on things, even if they want to do them, so check in with them during the process to make sure they are working on it. Just telling someone to give a workshop on a certain date and trusting them to handle everything else won't work out well usually. By regularly checking in with them, leadership can keep track of their progress and identify any problems earlier. It's also easier for the speaker to ask questions since they don't have to reach out.
+The first step is to field interest for a workshop, and/or connect with a member who's down to host. Get an idea for what they want to present, and *how* they want to present it (lecture style, build-along, a bit of both, etc.), and make sure it's appropriate (it probably is). Figure out a compsigh night that works for everyone, and get them on the calendar. **This should happen at least three weeks prior.**
+
+Like with most college students, things will come up. Check in with them (ideally **twice a week**, e.g. over Discord) to make sure they're on it and have everything they need. Don't hesitate on this — just sending someone off to prep a workshop will leave them feeling less supported, and also leaves us in the dark.
+
+Feel free to suggest tools for spicing up presentations, such as:
+
+- Canva
+- Figma
+- Excalidraw
+- Ray.so
+- Shots.so
+- Screen Studio
+
+Slides (or equivalent materials) **should be ready a week before** their scheduled workshop. The presenting club member is invited to that week's Congress (weekly leadership meeting before compsigh night) for feedback, any questions to either of us, how best we can support them, etc.
+
+Finally, on the day of, they come to Congress once more for a final check-in before their workshop.
+
+To summarize:
 
 | Date          | What should be done                                                                                       |
 | ------------- | --------------------------------------------------------------------------------------------------------- |
