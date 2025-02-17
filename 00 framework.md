@@ -17,6 +17,7 @@ documenting the mission & methods of compsigh leadership
   - [Promoting events](compsigh/framework/04%20Events.md#Promoting%20events)
   - [Setup](compsigh/framework/04%20Events.md#Setup)
   - [Teardown](compsigh/framework/04%20Events.md#Teardown)
+  - [Running workshops](compsigh/framework/04%20Events.md#Running%20workshops)
 - [05 Relationships & contacts](compsigh/framework/05%20Relationships%20&%20contacts.md)
   - [CS](compsigh/framework/05%20Relationships%20&%20contacts.md#CS)
   - [Engineering](compsigh/framework/05%20Relationships%20&%20contacts.md#Engineering)
