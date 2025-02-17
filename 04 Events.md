@@ -72,3 +72,16 @@ Return borrowed A/V and reset the space if we reconfigured during setup. Ensure 
 Lastly, wipe down all surfaces.
 
 Send a message in `#leadership` when you're done and we're good!
+
+## Planning Workshops
+
+Workshops are an opportunity for club members to learn about relevant skills. They can be hosted by leadership or other members of the club that leadership trusts.
+
+Most people are lazy and will procrastinate working on things, even if they want to do them, so check in with them during the process to make sure they are working on it. Just telling someone to give a workshop on a certain date and trusting them to handle everything else won't work out well usually. By regularly checking in with them, leadership can keep track of their progress and identify any problems earlier. It's also easier for the speaker to ask questions since they don't have to reach out.
+
+| Date          | What should be done                                                                                       |
+| ------------- | --------------------------------------------------------------------------------------------------------- |
+| 3 weeks prior | Reach out and get them on the calendar. Inform them of expectations and deadlines.                        |
+| 2 weeks prior | Check in. Remind them that slides need to be done by next week                                            |
+| 1 week prior  | Has slides done, comes to Congress (leadership meeting before compsigh night) to get feedback on workshop |
+| Day of        | Comes to Congress for final check-in, presents during compsigh night                                      |
