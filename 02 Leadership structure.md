@@ -28,6 +28,8 @@ Examples of regular output ideal to always have people on:
 
 Note that outputs don't always need a *unique* set of people; e.g. having a leadership team member both `taking photos at events` and `posting them on Instagram` is reasonable.
 
+We respect weekends and school breaks/holidays. Leadership team members are not expected to put in work during those times (but often do anyway).
+
 ### President
 
 The only explicitly defined position in compsigh leadership is President of the club. The President's roles & responsibilities are to:
