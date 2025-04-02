@@ -23,3 +23,6 @@ documenting the mission & methods of compsigh leadership
   - [Engineering](/05%20Relationships%20&%20contacts.md#Engineering)
   - [SLE](/05%20Relationships%20&%20contacts.md#SLE)
   - [E&I IDEA Initiative](/05%20Relationships%20&%20contacts.md#E&I%20IDEA%20Initiative)
+- [06 Finance](/06%20Finance.md)
+  - [Working with the CS Department](/06%20Finance.md#Working%20with%20the%20CS%20Department)
+  - [Working with E&I](/06%20Finance.md#Working%20with%20E&I)
