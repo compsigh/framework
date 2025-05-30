@@ -1,7 +1,11 @@
 .DS_Store
-.obsidian/workspace.json
-.obsidian/hotkeys.json
-.obsidian/graph.json
-.obsidian/community-plugins.json
-.obsidian/plugins/
-.obsidian/snippets/
+.gitignore
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+private/
+.replit
+replit.nix
