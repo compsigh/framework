@@ -14,12 +14,12 @@
 
 The President should be the one point person for expenses and reimbursements. For example:
 
-- *Edward as President:* Gursh buys pizza for compsigh night; Edward reimburses Gursh ASAP; reimbursement funds from a Sponsor would go to Edward
-- *Jet as President:* Jet pays for a run of poster prints; reimbursement funds from a Sponsor would go to Jet
+- _Edward as President:_ Gursh buys pizza for compsigh night; Edward reimburses Gursh ASAP; reimbursement funds from a Sponsor would go to Edward
+- _Jet as President:_ Jet pays for a run of poster prints; reimbursement funds from a Sponsor would go to Jet
 
 ## Working with the CS Department
 
-We have a compsigh pool under the CS Department's operating funds. People can donate to the University with a memo of "Computer Science Department: compsigh".  Once those funds clear, they become available for our use.
+We have a compsigh pool under the CS Department's operating funds. People can donate to the University with a memo of "Computer Science Department: compsigh". Once those funds clear, they become available for our use.
 
 Jocelyn maintains a spreadsheet of incoming donations%% TODO: include link %%, where we track each one and how soon we can expect them to be available for use. The President, the CS Department chair, and Jocelyn should all have access.
 
@@ -30,23 +30,23 @@ At the end of every month, we send Jocelyn a compiled report of expenses we'd li
 The process for spending money and getting reimbursed works like this:
 
 1. We spend our personal money on expenses for the club e.g. food
-    - We do have a Plan B for urgent situations where can't spend our own money. Use judiciously and reach out to Jocelyn for details when a situation arises.
+   - We do have a Plan B for urgent situations where can't spend our own money. Use judiciously and reach out to Jocelyn for details when a situation arises.
 2. At the end of every month, the President fills out the [Expense Report for Non-Employees](Expense%20Report%20for%20Non-Employees.pdf):
-    - `Payee Name (Last/First) Please Print`: e.g. `Pham/Jet`
-    - `Phone`: e.g. `<Jet's phone number>`
-    - `Mailing Address`: Harney 402, 2130 Fulton Street, San Francisco, CA 94117
-    - `USF Contact Person`: Jocelyn Lambert, jqlambert@usfca.edu
-    - `Contact Phone`: (415) 422-5983
-    - For each line item, include `Date`, `Expense item(s)`, and `Amount`; leave the other fields empty
-        - If there are more expenses than the line items allow, fill out a second form
-    - Enter the `Total Reimbursement`
-    - Sign the `Payee Signature`
-    - Leave every other field empty
+   - `Payee Name (Last/First) Please Print`: e.g. `Pham/Jet`
+   - `Phone`: e.g. `<Jet's phone number>`
+   - `Mailing Address`: Harney 402, 2130 Fulton Street, San Francisco, CA 94117
+   - `USF Contact Person`: Jocelyn Lambert, jqlambert@usfca.edu
+   - `Contact Phone`: (415) 422-5983
+   - For each line item, include `Date`, `Expense item(s)`, and `Amount`; leave the other fields empty
+     - If there are more expenses than the line items allow, fill out a second form
+   - Enter the `Total Reimbursement`
+   - Sign the `Payee Signature`
+   - Leave every other field empty
 3. We fill out the [Direct Deposit Form for Employee Reimbursement](Direct%20Deposit%20Form%20for%20Employee%20Reimbursement.pdf)
 4. Email to Jocelyn:
-    - A filled-out copy of the Expense Report for Non-Employees
-    - A filled-out copy of the Direct Deposit Form for Employee Reimbursement
-    - A single PDF containing all the receipts for the expenses we're requesting reimbursement for, ordered by date (ascending)
+   - A filled-out copy of the Expense Report for Non-Employees
+   - A filled-out copy of the Direct Deposit Form for Employee Reimbursement
+   - A single PDF containing all the receipts for the expenses we're requesting reimbursement for, ordered by date (ascending)
 
 ## Working with E&I
 

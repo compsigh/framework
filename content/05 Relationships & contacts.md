@@ -38,7 +38,7 @@ compsigh is a registered SLE organization. They reach out to "executive members"
 
 See SLE documentation (Canvas course sent to executive members) for info on room reservations, operational rules, etc.
 
-Note that we are *not* subject to SLE financial rules, as we do not have an account with them/ASUSF. For example, we don't have to ask for permission to host a fundraiser or purchase anything. **All finances are to go through the club, and not SLE.**
+Note that we are _not_ subject to SLE financial rules, as we do not have an account with them/ASUSF. For example, we don't have to ask for permission to host a fundraiser or purchase anything. **All finances are to go through the club, and not SLE.**
 
 In general, we rarely interact with their office, but good reasons to do so include:
 

@@ -27,7 +27,7 @@ Examples of regular output ideal to always have people on:
 - Socials
 - Design-engineering for platforms e.g. DEPLOY, cascade, web platform
 
-Note that outputs don't always need a *unique* set of people; e.g. having a leadership team member both `taking photos at events` and `posting them on Instagram` is reasonable.
+Note that outputs don't always need a _unique_ set of people; e.g. having a leadership team member both `taking photos at events` and `posting them on Instagram` is reasonable.
 
 We respect weekends and school breaks/holidays. Leadership team members are not expected to put in work during those times (but often do anyway).
 
@@ -35,7 +35,7 @@ We respect weekends and school breaks/holidays. Leadership team members are not 
 
 The only explicitly defined position in compsigh leadership is President of the club. The President's roles & responsibilities are to:
 
-- Have a strong understanding of all the club's ongoing objectives and each one's status: from *Which projects are blocked and why?* to *What's happening at compsigh night next week?*
+- Have a strong understanding of all the club's ongoing objectives and each one's status: from _Which projects are blocked and why?_ to _What's happening at compsigh night next week?_
 - Be "the face" of the club: announcements, welcomes, communications between other clubs and departments, etc. are led by the President
 - Have a vision and direction for the club
 - Confirm new leadership team members
