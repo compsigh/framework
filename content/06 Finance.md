@@ -1,6 +1,7 @@
 ---
 title: 06 Finance
 ---
+
 [We track expenses in Notion](https://www.notion.so/compsigh/expense-tracker-7e1fc8c3a507491e9439cce0d13cb1bc). Keep in mind this is public. Note the columns and make sure all relevant information is filled in:
 
 - `Expense`: what and why

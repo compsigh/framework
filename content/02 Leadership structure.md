@@ -1,6 +1,7 @@
 ---
 title: 02 Leadership structure
 ---
+
 As mentioned on the [club leadership web platform docs](https://compsigh.club/docs/leadership/joining), members are invited to join the team rather than applying for it.
 
 Club leadership members don't really have "positions", other than President (even that wasn't a thing until Fall 2024). This is because:

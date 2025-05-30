@@ -1,18 +1,52 @@
-# Quartz v4
+# Framework
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Documenting the mission & methods of club leadership
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+## Editing
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+To edit the `framework` docs, first clone the repo
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+```shell
+git clone https://github.com/compsigh/framework.git
+```
 
-## Sponsors
+Then you can change directory into the content folder
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+```shell
+cd framework/content
+```
+
+Here, are all of the markdown files that house the framework docs.
+
+You can edit these files using your favorite text editor like [VS Code](https://code.visualstudio.com/) or a dedicated markdown editor like [Obsidian](https://obsidian.md/)
+
+### Style
+
+Our docs are made with [Quartz](https://quartz.jzhao.xyz/) which allows us to use a very expanded set of Markdown with [GH Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+### Local Deployment
+
+You can preview all the changes you make to see what they'll look like on the real site.
+
+> Prerequisites
+>
+> - [Node](https://nodejs.org) v22
+> - `npm` v10.9.2 (comes with node)
+
+Run the server with:
+
+```shell
+npm run dev
+```
+
+This should build and then print
+
+```
+Started a Quartz server listening at http://localhost:8080
+```
+
+Then you can open a web browser and go to to [http://localhost:8080](http://localhost:8080) to see a preview of the framework docs!
+
+## Contributing
+
+We always welcome contributions to compsigh! If you have any suggestions, feel free to implement them and [open a PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request), or [open an issue](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request), or just @ leadership on [discord](https://discord.gg/fbREbDPW59)

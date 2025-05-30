@@ -24,7 +24,14 @@
     "npm": ">=10.9.2",
     "node": ">=22"
   },
-  "keywords": ["site generator", "ssg", "digital-garden", "markdown", "blog", "quartz"],
+  "keywords": [
+    "site generator",
+    "ssg",
+    "digital-garden",
+    "markdown",
+    "blog",
+    "quartz"
+  ],
   "bin": {
     "quartz": "./quartz/bootstrap-cli.mjs"
   },

@@ -1,6 +1,7 @@
 ---
 title: 01 Preface
 ---
+
 The what and why of leadership is captured on the [_About compsigh leadership_ web platform doc](https://compsigh.club/docs/leadership/about). <span style="font-family: Delko">framework</span> is the _how_.
 
 First published by the 2024–2025 leadership team, it would be silly to consider any version a _rulebook_. We can't pretend to know what the leadership team — nor, more importantly, the club members — of several years' future will need.

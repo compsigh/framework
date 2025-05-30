@@ -1,6 +1,7 @@
 ---
 title: Gems
 ---
+
 Resources from other clubs & orgs on community, leadership, events, etc.
 
 - [_College Clubs Are Awesome_ by Matthew Stanciu at Purdue Hackers](https://blog.purduehackers.com/posts/college-clubs-are-awesome)

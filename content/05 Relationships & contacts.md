@@ -1,6 +1,7 @@
 ---
 title: 05 Relationships & contacts
 ---
+
 As a club, we have several relationships — with other clubs, departments, sponsors, etc. It's important we maintain them.
 
 ## CS
