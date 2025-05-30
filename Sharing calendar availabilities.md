@@ -11,4 +11,3 @@ Here's how leadership currently runs our personal & team calendars:
     - If possible, it's recommended to use *one calendar* with all relevant times you're busy (classes, work, etc.) blocked on it
         - See this [message from Edward on how to share availability](https://discord.com/channels/849685154543960085/1088341310819283056/1327495467428220958)
         - At minimum please share `free/busy` status with everyone else
-
