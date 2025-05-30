@@ -1,5 +1,6 @@
-# Leadership processes
-
+---
+title: 03 Leadership processes
+---
 ## Criteria for leadership
 
 See the [_Joining compsigh leadership_ doc on the web platform](https://compsigh.club/docs/leadership/joining) for basic criteria and an overview of the invite process.

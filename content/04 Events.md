@@ -1,5 +1,6 @@
-# Events
-
+---
+title: 04 Events
+---
 ## Events structure
 
 There are many different kinds of events the club has hosted in the past. Here are some:

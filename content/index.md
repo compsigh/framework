@@ -1,5 +1,6 @@
-# framework
-
+---
+title: 00 Framework
+---
 documenting the mission & methods of compsigh leadership
 
 - [01 Preface](01%20Preface.md)

@@ -1,5 +1,6 @@
-# Sharing calendar availabilities
-
+---
+title: Sharing calendar availabilities
+---
 [The state of calendar sucks.](https://x.com/edwardshturman/status/1753209505876455569) It doesn't help that USF's Google Workspace isn't set up for us to view each other's free/busy calendar status. Nevertheless, it's important we're able to easily figure out who's free for (e.g.) a leadership meeting.
 
 Here's how leadership currently runs our personal & team calendars:
