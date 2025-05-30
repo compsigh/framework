@@ -10,7 +10,7 @@ One point worth highlighting is that a club member should already have a track r
 
 Here's what we should do when welcoming a new leadership team member:
 
-- Everyone should have each other's phone numbers, USF email addresses, and [calendar availabilities](/Sharing%20calendar%20availabilities.md)
+- Everyone should have each other's phone numbers, USF email addresses, and [calendar availabilities](Sharing%20calendar%20availabilities.md)
 - They should be added to the `#leadership` channel in the Discord (via the `@leadership` role)
 - They should be added to the `Leadership` GitHub team
 - Where relevant, they should be added to the other platforms we use regularly:
