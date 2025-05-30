@@ -2,7 +2,9 @@
   "accentColor": "#ffa200",
   "interfaceFontFamily": "",
   "cssTheme": "",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "overrides"
+  ],
   "translucency": true,
   "theme": "system",
   "textFontFamily": "iA Writer Quattro S,iA Writer Quattro V,iA Writer Mono S,iA Writer Mono V",
