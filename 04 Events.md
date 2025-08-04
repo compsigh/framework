@@ -28,7 +28,7 @@ Having a good picture of what's happening on any given compsigh night **at least
 
 Community members propose events all the time too, and are often eager to lead the effort e.g. workshops. In such cases, if it's a good fit (vibe check, timing, etc.), we should work with them closely to make it happen.
 
-## Promoting events
+## Promoting our events
 
 History has shown that if we keep reminding people something is happening, they do show up. There is also a nontrivial amount of CS students who don't know we exist yet. Promo is huge and we should capitalize on any and all hype.
 
@@ -46,6 +46,20 @@ Some additional steps if it's a special (one-off or infrequent) event:
 2. Reach out to Jocelyn and ask her to announce the event to the CS department over email.
 3. (Depending on scale) reach out to professors to promote the event in their classes. *(This is a game-changer.)*
 4. Add the event to the CS Events Google Calendar.
+
+## Promoting other events
+
+Generally, messages in `#events` will be pings to `@events` advertising compsigh events. If we're promoting non-compsigh events in `#events`, on our Instagram story, or otherwise, it means we've either been to them before, and/or can endorse them. e.g. Dons Hack, TIAT, etc. We should *not* ping in these instances; the idea is to provide greater visibility than somewhere like `#general`.
+
+Members are free to promote their events or events they're going to in `#general`, provided they're relevant and in good faith. That is, if a user joins the server and their first message is about selling their concert tickets, that doesn't make the cut.
+
+In summary:
+
+| Kind of events                                                                         | Appropriate channel               |
+| -------------------------------------------------------------------------------------- | --------------------------------- |
+| Our club events, e.g. compsigh nights                                                  | `#events`, with ping to `@events` |
+| External events we've been to and/or can endorse, e.g. Dons Hack, TIAT, etc.           | `#events`                         |
+| External events leadership can't speak on, but are relevant and promoted in good faith | `#general`                        |
 
 ## Setup
 
