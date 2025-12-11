@@ -19,7 +19,7 @@ The President should be the one point person for expenses and reimbursements. Fo
 
 ## Working with the CS Department
 
-We have a compsigh pool under the CS Department's operating funds. People can donate to the University with a memo of "Computer Science Department: compsigh".  Once those funds clear, they become available for our use.
+We have a compsigh pool under the CS Department's operating funds. People can donate to the University with a memo of "Computer Science Department: compsigh". Once those funds clear, they become available for our use.
 
 Jocelyn maintains a spreadsheet of incoming donations%% TODO: include link %%, where we track each one and how soon we can expect them to be available for use. The President, the CS Department chair, and Jocelyn should all have access.
 
@@ -42,10 +42,9 @@ The process for spending money and getting reimbursed works like this:
     - Enter the `Total Reimbursement`
     - Sign the `Payee Signature`
     - Leave every other field empty
-3. We fill out the [Direct Deposit Form for Employee Reimbursement](Direct%20Deposit%20Form%20for%20Employee%20Reimbursement.pdf)
+3. Fill out the [Direct Deposit Form for Employee Reimbursement](https://lf.usfca.edu/Forms/DirectDepositUSF)
 4. Email to Jocelyn:
     - A filled-out copy of the Expense Report for Non-Employees
-    - A filled-out copy of the Direct Deposit Form for Employee Reimbursement
     - A single PDF containing all the receipts for the expenses we're requesting reimbursement for, ordered by date (ascending)
 
 ## Working with E&I
