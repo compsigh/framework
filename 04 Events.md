@@ -119,14 +119,19 @@ To summarize:
 
 ## Other events to watch out for
 
-There are a number of events throughout the Fall & Spring semesters run by the university or other clubs that we should be aware of, and judicious when planning larger activities around those times.
+Aside from breaks & midterm seasons, there are a number of events throughout the Fall & Spring semesters run by the university or other clubs that we should be aware of, and judicious when planning larger activities around those times.
 
 ### Fall semester
 
+- Fall break (typically mid October)
 - CelebrateUSF / family weekend (typically mid October)
 - ISO's Diwali event (typically the last Friday of October, or the first Friday of November)
 - ISA's Culturescape (typically the last Friday before Thanksgiving break)
 
 ### Spring semester
 
+- Spring break (typically mid March)
+- Easter weekend (typically late March)
 - Dons Hack (typically the first weekend of April)
+
+For exact dates of breaks & holidays, check the [Academic Calendar](https://myusf.usfca.edu/registration/when-to-register/academic-calendar).
