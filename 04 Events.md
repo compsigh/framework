@@ -43,7 +43,7 @@ Standard steps for regular events:
 Some additional steps if it's a special (one-off or infrequent) event:
 
 1. Add to Discord Events tab.
-2. Reach out to Jocelyn and ask her to announce the event to the CS department over email.
+2. Reach out to Ella and ask her to announce the event to the CS department over email.
 3. (Depending on scale) reach out to professors to promote the event in their classes. *(This is a game-changer.)*
 4. Add the event to the CS Events Google Calendar.
 

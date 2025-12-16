@@ -10,12 +10,12 @@ Regular collaborations with the CS department include:
 
 - Coordinating and making sure we don't host events that conflict with the department or (within reason) the other CS clubs
 - "Club Coalition", a monthly meeting of all CS club presidents
-- Working with our amazing Program Assistant Jocelyn to promote our upcoming events department-wide (most often to students, but sometimes to faculty for them to promote in their classes — see [Promoting events](04%20Events.md#Promoting%20events))
+- Working with our amazing Program Assistant Ella to promote our upcoming events department-wide (most often to students, but sometimes to faculty for them to promote in their classes — see [Promoting events](04%20Events.md#Promoting%20events))
 
 ### Contacts
 
-- Jocelyn Lambert, Program Assistant
-  - Email: jqlambert@usfca.edu
+- Ella Cartnal, Program Assistant
+  - Email: ercartnal@usfca.edu
   - USFCS Slack
 - Chris Brooks, Department Chair
   - Email: cbrooks@usfca.edu

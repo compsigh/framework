@@ -23,21 +23,21 @@ When creating a new entry, make sure all relevant columns are filled in:
 
 We have a compsigh pool under the CS Department's operating funds. People can donate to the University with a memo of "Computer Science Department: compsigh". Once those funds clear, they become available for our use.
 
-Jocelyn maintains a spreadsheet of incoming donations%% TODO: include link %%, where we track each one and how soon we can expect them to be available for use. The President, the CS Department chair, and Jocelyn should all have access.
+Ella maintains a spreadsheet of incoming donations, where we track each one and how soon we can expect them to be available for use. The president, the CS department chair, and Ella should all have access.
 
-When a donation comes in, it usually takes a couple weeks before we know about it. At the start of each semester, it's good to ask Jocelyn to reach out to Development and earmark any compsigh donation and notify us.
+When a donation comes in, it usually takes a couple weeks before we know about it. At the start of each semester, it's good to ask Ella to reach out to Development and earmark any compsigh donation and notify us.
 
-At the end of every month, we send Jocelyn a compiled report of expenses we'd like to be reimbursed for from our fund's resources.
+At the end of every month, we send Ella a compiled report of expenses we'd like to be reimbursed for from our fund's resources.
 
 The process for spending money and getting reimbursed works like this:
 
 1. We spend our personal money on expenses for the club e.g. food
-    - We do have a Plan B for urgent situations where can't spend our own money. Use judiciously and reach out to Jocelyn for details when a situation arises.
-2. At the end of every month, the President fills out the [Expense Report for Non-Employees](Expense%20Report%20for%20Non-Employees.pdf):
+    - We do have a Plan B for urgent situations where can't spend our own money. Use judiciously and reach out to Ella for details when a situation arises.
+2. At the end of every month, the president fills out the [Expense Report for Non-Employees](Expense%20Report%20for%20Non-Employees.pdf):
     - `Payee Name (Last/First) Please Print`: e.g. `Pham/Jet`
     - `Phone`: e.g. `<Jet's phone number>`
     - `Mailing Address`: Harney 402, 2130 Fulton Street, San Francisco, CA 94117
-    - `USF Contact Person`: Jocelyn Lambert, jqlambert@usfca.edu
+    - `USF Contact Person`: Ella Cartnal, ercartnal@usfca.edu
     - `Contact Phone`: (415) 422-5983
     - For each line item, include `Date`, `Expense item(s)`, and `Amount`; leave the other fields empty
         - If there are more expenses than the line items allow, fill out a second form
@@ -45,7 +45,7 @@ The process for spending money and getting reimbursed works like this:
     - Sign the `Payee Signature`
     - Leave every other field empty
 3. Fill out the [Direct Deposit Form for Employee Reimbursement](https://lf.usfca.edu/Forms/DirectDepositUSF)
-4. Email to Jocelyn:
+4. Email to Ella:
     - A filled-out copy of the Expense Report for Non-Employees
     - A single PDF containing all the receipts for the expenses we're requesting reimbursement for, ordered by date (ascending)
     - A filled-out copy of [Form W-9](https://irs.gov/pub/irs-pdf/fw9.pdf)
