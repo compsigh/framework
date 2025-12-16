@@ -116,3 +116,17 @@ To summarize:
 | 2 weeks prior | Check in. Remind them that slides need to be done by next week                                            |
 | 1 week prior  | Has slides done, comes to Congress (leadership meeting before compsigh night) to get feedback on workshop |
 | Day of        | Comes to Congress for final check-in, presents during compsigh night                                      |
+
+## Other events to watch out for
+
+There are a number of events throughout the Fall & Spring semesters run by the university or other clubs that we should be aware of, and judicious when planning larger activities around those times.
+
+### Fall semester
+
+- CelebrateUSF / family weekend (typically mid October)
+- ISO's Diwali event (typically the last Friday of October, or the first Friday of November)
+- ISA's Culturescape (typically the last Friday before Thanksgiving break)
+
+### Spring semester
+
+- Dons Hack (typically the first weekend of April)
