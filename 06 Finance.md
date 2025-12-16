@@ -59,14 +59,14 @@ Generally, E&I is able to support:
 
 - Larger events like hackathons
 - Events that are open to and relevant for all clubs in the Initiative
-- Regular expenses related to marketing/promotion of the club, subscriptions to platforms & tools that help club members develop their projects, or those part of a workshop or themed gathering
+- Expenses related to marketing/promotion of the club, subscriptions to platforms & tools that help club members develop their projects, or those part of a workshop or themed gathering
 
 At the moment, E&I can't fund:
 
 - Regular compsigh night expenses like food
 - Expenses greater than $200 month-over-month
 
-The process is similar to working with the CS Department:
+The process is similar to working with the CS department:
 
 1. Reach out to E&I Faculty Director, Professor Jonathan Cromwell jcromwell@usfca.edu; the earlier the better
 2. Come to an agreed budget and keep track of expenses closely — we often make a dedicated view in the Notion expense tracker
