@@ -1,21 +1,23 @@
 # Finance
 
-[We track expenses in Notion](https://www.notion.so/compsigh/expense-tracker-7e1fc8c3a507491e9439cce0d13cb1bc). Keep in mind this is public. Note the columns and make sure all relevant information is filled in:
+We track expenses in [our public Notion database](https://www.notion.so/compsigh/expense-tracker-7e1fc8c3a507491e9439cce0d13cb1bc).
+
+Officially, the club president is responsible for expenses and reimbursements. This makes paperwork & other admin responsibilities significantly easier on us. For example:
+
+- *Edward as president:* Gursh buys pizza for compsigh night; Edward reimburses Gursh ASAP; reimbursement funds from a sponsor would go to Edward
+- *Jet as president:* Jet pays for a run of poster prints; reimbursement funds from a sponsor would go to Jet
+
+When creating a new entry, make sure all relevant columns are filled in:
 
 - `Expense`: what and why
 - `Cost`
 - `Date`
-- `Who paid`: the club member (probably leadership) who initially paid for the expense
-- `Status`: whether or not that club member has been reimbursed by the President. If the expense was paid for by the President, it represents whether they've been reimbursed by a Sponsor.
-- `Reimbursement`: tracks whether we've requested a reimbursement from a Sponsor
+- `Who paid`: the leadership member who paid for the expense
+    - If it was a non-leadership club member, they should be reimbursed ASAP by a leadership member, whose name should be selected here
+- `Status`: whether or not that leadership member has been reimbursed by the president. If the expense was paid for by the president, it represents whether they've been reimbursed by a sponsor.
+- `Reimbursement`: eligibility & progress on getting reimbursed for the expense
 - `Receipt`: a picture, scan, or download of a receipt
-- Add any other noteworthy details in the page of the expense itself
-- Feel free to discuss modifying the columns at a leadership meeting — for example one to keep track of which Sponsor reimbursed for that expense
-
-The President should be the one point person for expenses and reimbursements. For example:
-
-- *Edward as President:* Gursh buys pizza for compsigh night; Edward reimburses Gursh ASAP; reimbursement funds from a Sponsor would go to Edward
-- *Jet as President:* Jet pays for a run of poster prints; reimbursement funds from a Sponsor would go to Jet
+- Add any other relevant details in the entry's page
 
 ## Working with the CS Department
 
