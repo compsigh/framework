@@ -46,6 +46,7 @@ The process for spending money and getting reimbursed works like this:
 4. Email to Jocelyn:
     - A filled-out copy of the Expense Report for Non-Employees
     - A single PDF containing all the receipts for the expenses we're requesting reimbursement for, ordered by date (ascending)
+    - A filled-out copy of [Form W-9](https://irs.gov/pub/irs-pdf/fw9.pdf)
 
 ## Working with E&I
 
