@@ -1,70 +1,74 @@
 @font-face {
-    font-family: 'iA Writer Quattro';
-    src: url('https://deploy.compsigh.club/fonts/iAWriterQuattroS-Regular.woff2');
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
+  font-family: 'iA Writer Quattro';
+  src: url('https://deploy.compsigh.club/fonts/iAWriterQuattroS-Regular.woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'iA Writer Quattro';
-    src: url('https://deploy.compsigh.club/fonts/iAWriterQuattroS-Italic.woff2');
-    font-weight: 400;
-    font-style: italic;
-    font-display: swap;
+  font-family: 'iA Writer Quattro';
+  src: url('https://deploy.compsigh.club/fonts/iAWriterQuattroS-Italic.woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'iA Writer Quattro';
-    src: url('https://deploy.compsigh.club/fonts/iAWriterQuattroS-Bold.woff2');
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
+  font-family: 'iA Writer Quattro';
+  src: url('https://deploy.compsigh.club/fonts/iAWriterQuattroS-Bold.woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'iA Writer Quattro';
-    src: url('https://deploy.compsigh.club/fonts/iAWriterQuattroS-BoldItalic.woff2');
-    font-weight: 700;
-    font-style: italic;
-    font-display: swap;
+  font-family: 'iA Writer Quattro';
+  src: url('https://deploy.compsigh.club/fonts/iAWriterQuattroS-BoldItalic.woff2');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
 }
 
 body {
-    --accent-h: 038;
-    --accent-s: 100%;
-    --accent-l: 50%;
+  --accent-h: 038;
+  --accent-s: 100%;
+  --accent-l: 50%;
 
-    --font-text-theme: 'iA Writer Quattro', sans-serif;
-    --font-interface: 'iA Writer Quattro', sans-serif;
+  --font-text-theme: 'iA Writer Quattro', sans-serif;
+  --font-interface: 'iA Writer Quattro', sans-serif;
 
-    --line-height-normal: 2;
-    --h1-line-height: 1.2 !important;
-    --h2-line-height: 1.2 !important;
-    --h3-line-height: 1.2 !important;
-    --h4-line-height: 1.2 !important;
-    --h5-line-height: 1.2 !important;
-    --h6-line-height: 1.2 !important;
+  --line-height-normal: 2;
+  --h1-line-height: 1.2 !important;
+  --h2-line-height: 1.2 !important;
+  --h3-line-height: 1.2 !important;
+  --h4-line-height: 1.2 !important;
+  --h5-line-height: 1.2 !important;
+  --h6-line-height: 1.2 !important;
 
-    --h1-size: 1.6em !important;
-    --h2-size: 1.2em !important;
-    --h3-size: 1.1em !important;
+  --h1-size: 1.6em !important;
+  --h2-size: 1.2em !important;
+  --h3-size: 1.1em !important;
 }
 
 .theme-dark {
-    --background-primary: #060505;
-    --text-normal: #ffeccc;
+  --background-primary: #060505;
+  --text-normal: #ffeccc;
 }
 
 .theme-light {
-	--text-normal: #060505;
+  --text-normal: #060505;
+  --accent-h: 38;
+  --accent-s: 100%;
+  --accent-l: 0%;
+  --text-on-accent: white;
 }
 
 div.site-footer {
-    display: none;
+  display: none;
 }
 
 .published-container .markdown-rendered h1,
 .published-container .markdown-rendered h2 {
-    border-bottom: none;
+  border-bottom: none;
 }
